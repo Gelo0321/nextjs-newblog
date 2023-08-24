@@ -9,13 +9,12 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-      <p>I am a 3rd year College student at University of the Assumption.
-          I am 20 years old, and I come from Macabebe, Pampanga.
-          Some of my interests include playing mobile games, badminton.</p>
+      <p>My First impression for the 1st month as a 3rd year CpE student.</p>
         <p>  </p>
-        <p>Because our technology is expanding and I want to be a part of it.</p>
-        <p>After i Graduated, i can see my self as a front end developer, 
-          because I enjoy designing a website.</p>
+        <p>As a 3rd yr. CpE student, my 1st month in this yr. is very hard and stressed because 
+          of our schedule, and transportation. But our major subjects are very challenging and I enjoying doing it. I learned some knowledge about programming, and how to use Visual studio, gitbush..</p>
+          <p> were trying to build application </p>
+          <p> we know now how to update a website </p>
 
       </section>
     </Layout>
